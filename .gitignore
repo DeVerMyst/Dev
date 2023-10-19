@@ -5,5 +5,5 @@ components/__pycache__
 machinelearning/encoder.sav
 machinelearning/finalized_model.sav
 test/__pycache__
-static/img 
+static/img/histage.png
 .DS_Store
