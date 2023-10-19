@@ -105,3 +105,18 @@ Creation static/img
 
 `pip freeze > requirements.txt`
 `pip install -r requirements.txt`
+
+
+```
+app
+├── app.py
+├── static
+│   └── css
+│       └── style.css
+│   └── images
+│       └── logo.png
+│   └── js
+│       └── script.js
+└── templates
+    └── index.html
+    ```
