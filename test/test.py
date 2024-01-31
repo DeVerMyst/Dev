@@ -7,4 +7,3 @@ class TestMyModule:
 
     def test_mul(self):
         assert mul(5, 4) == 20, "not good"
-Ò
